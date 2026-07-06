@@ -1,0 +1,13 @@
+Total .r-ent entries: 20
+Entry 1: title='[新聞] 台中爆問題油 陳淑華批盧秀燕神隱規避責' push='5' class='hl f2' author='axsd' date='7/06'
+Entry 2: title='[問卦] 北部應該能放吧' push='6' class='hl f2' author='O300' date='7/06'
+Entry 3: title='[問卦] 為何家長都跟小孩說是撿來的' push='10' class='hl f3' author='weber18767' date='7/06'
+Entry 4: title='[問卦] 這算十八羅漢嗎？' push='0' class='' author='hikaru77613' date='7/06'
+Entry 5: title='(no title / deleted)' push='0' class='' author='-' date='7/06'
+Entry 6: title='[新聞] 一份鹹酥雞「破壞身體72小時」！醫曝崩' push='1' class='hl f2' author='noposo' date='7/06'
+Entry 7: title='[問卦] 矢板明夫講話怎麼那麼像中國人？' push='7' class='hl f2' author='kingfsg7326' date='7/06'
+Entry 8: title='[問卦] 哈蘭德若生在維京時代，會是什麼等級？' push='1' class='hl f2' author='Aotearoa' date='7/06'
+Entry 9: title='[問卦] 以前的硬碟不能裝在新的電腦上嗎' push='7' class='hl f2' author='onetiger' date='7/06'
+Entry 10: title='Re: [新聞] 快訊／埋伏2天攻擊矢板明夫　33歲大陸男' push='5' class='hl f2' author='PCC9169' date='7/06'
+Entry 11: title='[問卦] 明天要去澎湖三天兩夜推薦食物' push='13' class='hl f3' author='peterasd' date='7/06'
+Entry 12: title='Re: [問卦] 氣象主播好像很希望颱風登陸？' push='0' class='' author='xzcb2008' date='7/06'

@@ -1,0 +1,7 @@
+step 1 action: open Taiwan Bank exchange rate page
+step 2 action: exchange rate table is visible
+step 2 action: USD cash buying rate (本行買入): 31.625
+step 3 action: USD cash selling rate (本行賣出): 32.295
+
+FINAL_RESPONSE: 美元 (USD) 現金買入: 31.625, 現金賣出: 32.295
+step 5 action: task complete - extracted USD rates

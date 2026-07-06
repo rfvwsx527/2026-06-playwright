@@ -1,0 +1,79 @@
+- link "批踢踢實業坊":
+  - /url: /bbs/
+- text: ›
+- link "看板 Gossiping":
+  - /url: /bbs/Gossiping/index.html
+- link "關於我們":
+  - /url: /about.html
+- link "聯絡資訊":
+  - /url: /contact.html
+- link "看板":
+  - /url: /bbs/Gossiping/index.html
+- link "精華區":
+  - /url: /man/Gossiping/index.html
+- link "最舊":
+  - /url: /bbs/Gossiping/index1.html
+- link "‹ 上頁":
+  - /url: /bbs/Gossiping/index38934.html
+- text: 下頁 ›
+- link "最新":
+  - /url: /bbs/Gossiping/index.html
+- textbox "搜尋文章⋯"
+- text: "7"
+- link "[新聞] 台中爆問題油 陳淑華批盧秀燕神隱規避責":
+  - /url: /bbs/Gossiping/M.1783339222.A.109.html
+- text: axsd ⋯ 7/06 6
+- link "[問卦] 北部應該能放吧":
+  - /url: /bbs/Gossiping/M.1783339232.A.0AA.html
+- text: O300 ⋯ 7/06 9
+- link "[問卦] 為何家長都跟小孩說是撿來的":
+  - /url: /bbs/Gossiping/M.1783339248.A.05D.html
+- text: weber18767 ⋯ 7/06
+- link "[問卦] 這算十八羅漢嗎？":
+  - /url: /bbs/Gossiping/M.1783339416.A.938.html
+- text: hikaru77613 ⋯ 7/06 (本文已被刪除) [MrKing] - 7/06 2
+- link "[新聞] 一份鹹酥雞「破壞身體72小時」！醫曝崩":
+  - /url: /bbs/Gossiping/M.1783339594.A.BCC.html
+- text: noposo ⋯ 7/06 6
+- link "[問卦] 矢板明夫講話怎麼那麼像中國人？":
+  - /url: /bbs/Gossiping/M.1783339615.A.BFE.html
+- text: kingfsg7326 ⋯ 7/06 1
+- link "[問卦] 哈蘭德若生在維京時代，會是什麼等級？":
+  - /url: /bbs/Gossiping/M.1783339637.A.20E.html
+- text: Aotearoa ⋯ 7/06 4
+- link "[問卦] 以前的硬碟不能裝在新的電腦上嗎":
+  - /url: /bbs/Gossiping/M.1783339651.A.C04.html
+- text: onetiger ⋯ 7/06 4
+- 'link "Re: [新聞] 快訊／埋伏2天攻擊矢板明夫 33歲大陸男"':
+  - /url: /bbs/Gossiping/M.1783339669.A.ACD.html
+- text: PCC9169 ⋯ 7/06 11
+- link "[問卦] 明天要去澎湖三天兩夜推薦食物":
+  - /url: /bbs/Gossiping/M.1783339706.A.FC6.html
+- text: peterasd ⋯ 7/06
+- 'link "Re: [問卦] 氣象主播好像很希望颱風登陸？"':
+  - /url: /bbs/Gossiping/M.1783339821.A.2EC.html
+- text: xzcb2008 ⋯ 7/06 2
+- link "[問卦] 民主的食用油應該具備什麼特質？":
+  - /url: /bbs/Gossiping/M.1783339903.A.DAA.html
+- text: LukeSkywaker ⋯ 7/06
+- link "[問卦] 國中一年級女生喜歡啥〓〓？":
+  - /url: /bbs/Gossiping/M.1783340104.A.A02.html
+- text: Marle ⋯ 7/06
+- link "[問卦] 這次該輪到北北基放颱風假了吧嘻嘻":
+  - /url: /bbs/Gossiping/M.1783340127.A.2D0.html
+- text: kevin19528 ⋯ 7/06 99
+- link "[公告] 豐川祥子誕生日八卦板主徵選報名開始":
+  - /url: /bbs/Gossiping/M.1771040474.A.61B.html
+- text: ubcs ⋯ 2/14 M
+- link "[公告] 八卦板板規(2026.02.21)":
+  - /url: /bbs/Gossiping/M.1771671779.A.6ED.html
+- text: ubcs ⋯ 2/21 ! 83
+- 'link "Fw: [公告] 板務部小組長級審判團徵人"':
+  - /url: /bbs/Gossiping/M.1782460471.A.FD2.html
+- text: ubcs ⋯ 6/26 71
+- link "[公告] 板規十七條實名檢舉規定草案廢棄":
+  - /url: /bbs/Gossiping/M.1783309308.A.1DC.html
+- text: ubcs ⋯ 7/06 M 52
+- link "[公告] 合議制新規＆喪事喜辦 提名榮譽板主開始":
+  - /url: /bbs/Gossiping/M.1783331751.A.C1A.html
+- text: ubcs ⋯ 7/06 M 本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。
